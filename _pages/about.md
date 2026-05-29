@@ -27,6 +27,6 @@ latest_posts:
 
 I am a Ph.D. student in the [Wangxuan Institute of Computer Technology](https://www.wict.pku.edu.cn) at [Peking University](https://www.pku.edu.cn/). I am advised by [Prof. Yansong Feng](https://yansongfeng.github.io/). My research interests lie in **LLM Reasoning**, **Question Answering**, and **NLP for Low-Resource Languages**.
 
-Before that, I obtained my B.Sc. in Information and Computing Science from the Department of Computer Science and Technology, Peking University, where I graduated with a GPA of 3.65/4.0 (top 30%).
+Before that, I obtained my B.Sc. in Information and Computing Science from the Department of Computer Science and Technology, Peking University.
 
 I am passionate about harnessing large language models for social good, especially for supporting intelligent applications for people who are in need.
