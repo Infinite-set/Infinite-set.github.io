@@ -36,23 +36,10 @@ jobs:
         with:
           ruby-version: "3.3.5"
           bundler-cache: true
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.13"
-          cache: "pip"
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-          cache: "npm"
-      - name: Install JS deps
-        run: npm ci
       - name: Install ImageMagick
         run: sudo apt-get update && sudo apt-get install -y imagemagick
       - name: Build Jekyll site
         run: |
-          pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
       - name: Upload artifact
