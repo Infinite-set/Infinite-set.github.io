@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+news: true
 subtitle: Ph.D. Student in Natural Language Processing, <a href='https://www.wict.pku.edu.cn'>Wangxuan Institute of Computer Technology</a>, <a href='https://www.pku.edu.cn/'>Peking University</a>
 
 profile:
